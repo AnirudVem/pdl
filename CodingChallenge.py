@@ -27,7 +27,7 @@ remove the objects in memory that are no longer needed
 ''' 
 STEP 3:
 
-Calculate total sales by month
+Calculate total sales by month for the months of Jan and Feb
 
 '''
 
