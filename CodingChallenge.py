@@ -4,8 +4,6 @@
 STEP 1:
 
 Read both data files: transaction_information.csv and customer_preferences.json
-
-transaction_information.csv is tab delimited and customer_preferences.json is record oriented
 '''
 
 
